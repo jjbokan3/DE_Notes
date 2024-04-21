@@ -1,0 +1,15 @@
+{
+  "snippets_file": "graph: ```mermaid$nl$graph TD$nl$$nl$$end$$nl$```\ntest: hello",
+  "snippets": [
+    "graph: ```mermaid$nl$graph TD$nl$$nl$$end$$nl$```",
+    "test: hello"
+  ],
+  "endSymbol": "$end$",
+  "newlineSymbol": "$nl$",
+  "stopSymbol": "$tb$",
+  "pasteSymbol": "$pst$",
+  "useTab": true,
+  "useSpace": false,
+  "wordDelimiters": "$()[]{}<>,.!?;:'\"\\/",
+  "isWYSIWYG": true
+}
