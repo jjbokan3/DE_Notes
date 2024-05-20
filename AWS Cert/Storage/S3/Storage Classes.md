@@ -1,6 +1,6 @@
 # S3 Standard
-Used for frequently accessed data
-- $ 99.99% Available
+Used for frequently accessed data ^6346ee
+- $ 99.99% Available ^fa49fb
 - $ Low latency, high throughput
 - $ Sustain 2 concurrent facility failures
 - ~ Medium Cost
@@ -61,7 +61,7 @@ Tiers:
 ```mermaid
 graph TD
 
-Select_Bucket --> Management --> Create_Lifecycle_Rule --> Rule_Scope --> Rule_Actions
+Select_Bucket --> Management --> Create_Lifecycle_Rule --> Rule_Scope --> Rule_Actions --> Transaition_Parameters
 ```
 
 # Setup
