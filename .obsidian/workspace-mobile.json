@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "d02fd16b9e1a1219",
+    "type": "split",
+    "children": [
+      {
+        "id": "69ce53bb6937662c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bb8c70ea0c07aaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS Cert/Database/DynamoDB/Throughput.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "81e1d0b4356c7bc8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9683327819094dfa",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "69fcd70bd44c413c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "0ebc761923858f69",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "e4d0c48a8df95065",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "f76a8c7ece399c59",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bbb24aa13158b72d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "AWS Cert/Database/DynamoDB/Throughput.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "3a21a503e8a60a32",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "AWS Cert/Database/DynamoDB/Throughput.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4ecac12fd7a1e661",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "AWS Cert/Database/DynamoDB/Throughput.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8bb8c70ea0c07aaf",
+  "lastOpenFiles": [
+    "AWS Cert/Storage/S3/Encryption.md",
+    "AWS Cert/Database/DynamoDB/Throughput.md",
+    "AWS Cert/Database/DynamoDB/General.md",
+    "AWS Cert/Fundamentals.md",
+    "Pandas -> Spark.md",
+    "AWS Cert/Storage/S3/Event Notifications.md",
+    "Screenshot 2024-04-21 at 2.56.37 PM.png",
+    "Screenshot 2024-04-21 at 2.40.46 PM.png",
+    "Screenshot 2024-04-21 at 3.01.38 PM.png",
+    "Screenshot 2024-04-21 at 5.07.34 PM.png",
+    "Screenshot 2024-04-21 at 2.36.28 PM.png",
+    "AWS Cert/Storage/S3/Object Lambda.md",
+    "AWS Cert/Storage/S3/Lifecycle Rules.md",
+    "Pasted image 20240421142635.png",
+    "Screenshot 2024-04-21 at 2.53.50 PM.png",
+    "Miami Trip.md",
+    "AWS Cert/Database",
+    "Screenshot 2024-04-21 at 2.57.38 PM.png",
+    "Screenshot 2024-04-21 at 5.07.53 PM.png",
+    "AWS Cert/Storage/AWS Backup.md",
+    "Screenshot 2024-04-21 at 3.17.41 PM.png",
+    "AWS Cert/Storage/EC2/EFS.md",
+    "AWS Cert/Storage/EC2/EBS.md",
+    "AWS Cert/Storage/EC2/EBS vs EFS.md",
+    "AWS Cert/Storage/EC2",
+    "AWS Cert/Storage/S3/Access Points.md",
+    "AWS Cert/Database/DynamoDB/Big Data.md",
+    "AWS Cert/Database/DynamoDB",
+    "Images",
+    "AWS Cert/Storage/S3/S3 Select & Glacier Select.md",
+    "AWS Cert/Storage/S3/Performance.md",
+    "Bash.md",
+    "/Miami Trip.md",
+    "/Bash.md",
+    "/AWS Cert/Storage/S3/Storage Classes.md",
+    "/AWS Cert/Storage/S3/S3 Select & Glacier Select.md",
+    "/AWS Cert/Storage/S3/Performance.md",
+    "/AWS Cert/Storage/S3/Object Lambda.md",
+    "/AWS Cert/Storage/S3/Lifecycle Rules.md",
+    "/AWS Cert/Storage/S3/Event Notifications.md",
+    "/Images",
+    "/AWS Cert/Storage/EC2",
+    "/AWS Cert/Database/DynamoDB",
+    "/AWS Cert/Database",
+    "Scala",
+    "AWS Cert/Storage/S3"
+  ]
+}
