@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "69ce53bb6937662c",
+        "id": "340ec6d65ea8dabb",
         "type": "tabs",
         "children": [
           {
-            "id": "8bb8c70ea0c07aaf",
+            "id": "6b4126c0f74e4a5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -131,10 +131,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8bb8c70ea0c07aaf",
+  "active": "6b4126c0f74e4a5a",
   "lastOpenFiles": [
-    "AWS Cert/Storage/S3/Encryption.md",
+    "AWS Cert/Database/DynamoDB/Indexes.md",
     "AWS Cert/Database/DynamoDB/Throughput.md",
+    "DBT/Untitled.md",
+    "DBT",
+    "AWS Cert/Storage/S3/Encryption.md",
     "AWS Cert/Database/DynamoDB/General.md",
     "AWS Cert/Fundamentals.md",
     "Pandas -> Spark.md",
@@ -171,13 +174,10 @@
     "/AWS Cert/Storage/S3/S3 Select & Glacier Select.md",
     "/AWS Cert/Storage/S3/Performance.md",
     "/AWS Cert/Storage/S3/Object Lambda.md",
-    "/AWS Cert/Storage/S3/Lifecycle Rules.md",
-    "/AWS Cert/Storage/S3/Event Notifications.md",
     "/Images",
     "/AWS Cert/Storage/EC2",
     "/AWS Cert/Database/DynamoDB",
     "/AWS Cert/Database",
-    "Scala",
-    "AWS Cert/Storage/S3"
+    "Scala"
   ]
 }
