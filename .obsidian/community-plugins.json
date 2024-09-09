@@ -1,7 +1,14 @@
 [
   "callout-manager",
-  "text-snippets-obsidian",
-  "obsidian-list-callouts",
   "obsidian-linter",
-  "obsidian-git"
+  "text-snippets-obsidian",
+  "wikipedia-search",
+  "obsidian-list-callouts",
+  "obsidian-git",
+  "obsidian-smart-typography",
+  "obsidian-scroll-offset",
+  "url-into-selection",
+  "templater-obsidian",
+  "dataview",
+  "table-editor-obsidian"
 ]
