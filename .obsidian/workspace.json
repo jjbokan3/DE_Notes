@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS Cert/Vocabulary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "178d4325eb963ac8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS Cert/Database/DynamoDB/Basic APIs.md",
+                "file": "AWS Cert/Database/DynamoDB/DAX.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +50,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTimeReverse"
               }
             }
           },
@@ -94,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 328.5,
+    "collapsed": true
   },
   "right": {
     "id": "91523485e5d2de4f",
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS Cert/Database/DynamoDB/Basic APIs.md",
+                "file": "AWS Cert/Database/DynamoDB/DAX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS Cert/Database/DynamoDB/Basic APIs.md",
+                "file": "AWS Cert/Database/DynamoDB/DAX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS Cert/Database/DynamoDB/Basic APIs.md"
+                "file": "AWS Cert/Database/DynamoDB/DAX.md"
               }
             }
           }
@@ -174,11 +162,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "178d4325eb963ac8",
+  "active": "1616221ebbecde73",
   "lastOpenFiles": [
-    "AWS Cert/Database/DynamoDB/Throughput.md",
+    "AWS Cert/Database/DynamoDB/DAX.md",
+    "AWS Cert/Database/DynamoDB/DynamoDB.md",
+    "AWS Cert/Database/DynamoDB/General.md",
+    "AWS Cert/Legend.md",
+    "AWS Cert/Database/DynamoDB/Security & Other Features.md",
+    "AWS Cert/Database/RDS",
+    "AWS Cert/Database/DynamoDB/Patterns with S3.md",
+    "AWS Cert/Database/DynamoDB/TTL (Time to Live).md",
+    "AWS Cert/Database/DynamoDB/PartiQL.md",
+    "AWS Cert/Database/DynamoDB/Streams.md",
+    "Pasted image 20240910142702.png",
+    "Pasted image 20240910142629.png",
+    "Pasted image 20240910141953.png",
+    "Pasted image 20240910141838.png",
+    "Pasted image 20240910141150.png",
+    "Pasted image 20240910141146.png",
     "AWS Cert/Database/DynamoDB/Basic APIs.md",
+    "AWS Cert/Database/DynamoDB/Untitled.canvas",
     "AWS Cert/Vocabulary.md",
+    "AWS Cert/Database/DynamoDB/Throughput.md",
+    "AWS Cert/Database/DynamoDB/Indexes.md",
+    "AWS Cert/Storage/S3/Replication.md",
+    "AWS Cert/Storage/S3/Storage Classes.md",
+    "AWS Cert/Storage/S3/Lifecycle Rules.md",
+    "AWS Cert/Storage/S3/Object Lambda.md",
+    "AWS Cert/Storage/S3/Encryption.md",
+    "DBT/Untitled.md",
+    "DBT",
     "Riskified Take home test.md",
     "Projects/MTA RT Plotting/New Interface.md",
     "Projects/MTA RT Plotting/Beginning Outlook.md",
@@ -190,37 +203,13 @@
     "templates/image-link.md",
     "Scala/Primary Notes.md",
     "Misc Libraries/Pathlib.md",
-    "Misc Libraries/Inspect.md",
     "Images/Screenshot 2024-04-21 at 2.28.06 PM.png",
     "Images/Screenshot 2024-04-17 at 9.38.17 PM.png",
     "Images/Screenshot 2024-04-21 at 1.44.47 PM.png",
     "Images/Screenshot 2024-04-21 at 1.42.41 PM.png",
-    "Images/Screenshot 2024-04-21 at 1.39.26 PM.png",
-    "Images/Screenshot 2024-04-17 at 9.39.47 PM.png",
-    "Images/Screenshot 2024-04-21 at 1.47.08 PM.png",
-    "Images/Screenshot 2024-04-21 at 1.48.05 PM.png",
-    "Images/Screenshot 2024-04-21 at 12.30.52 PM.png",
-    "AWS Cert/Fundamentals.md",
-    "AWS Cert/Storage/S3/Versioning.md",
-    "AWS Cert/Storage/S3/Storage Classes.md",
-    "AWS Cert/Storage/S3/Setting up Bucket.md",
-    "AWS Cert/Storage/S3/Security (Bucket Policy).md",
-    "AWS Cert/Storage/S3/S3 Select & Glacier Select.md",
-    "AWS Cert/Storage/S3/Replication.md",
-    "AWS Cert/Storage/S3/Performance.md",
-    "AWS Cert/Storage/S3/Overview.md",
-    "AWS Cert/Storage/S3/Object Lambda.md",
-    "AWS Cert/Storage/S3/Lifecycle Rules.md",
-    "AWS Cert/Storage/S3/Event Notifications.md",
-    "AWS Cert/Storage/S3/Encryption.md",
-    "AWS Cert/Storage/S3/Access Points.md",
-    "AWS Cert/Storage/EC2/EFS.md",
     "AWS Cert/Storage/S3",
     "AWS Cert/Storage/EC2",
     "AWS Cert/Storage",
-    "AWS Cert/Database/DynamoDB",
-    "AWS Cert/Database",
-    "templates",
-    "Screenshot 2024-04-21 at 5.12.56 PM.png"
+    "AWS Cert/Database/DynamoDB"
   ]
 }

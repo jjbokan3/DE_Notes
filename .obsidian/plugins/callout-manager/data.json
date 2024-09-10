@@ -1,7 +1,18 @@
 {
   "callouts": {
-    "custom": [],
-    "settings": {}
+    "custom": [
+      "simple"
+    ],
+    "settings": {
+      "simple": [
+        {
+          "changes": {
+            "icon": "lucide-lightbulb",
+            "color": "255, 247, 0"
+          }
+        }
+      ]
+    }
   },
   "calloutDetection": {
     "obsidianFallbackForced": false,

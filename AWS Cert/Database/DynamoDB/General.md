@@ -1,10 +1,10 @@
 *NoSQL Serverless Database*
 - $! Distributed, allowing horizontal scalability
-- ^ Do not support query joins
-- ^ Do not perform aggregations
+- ^ Can not support query joins
+- ^ Can not perform aggregations
 
 # Stats
-- $ Fully managed, highly available (replication acroess multiple AZs)
+- $ Fully managed, highly available (replication across multiple AZs)
 - $! Allows millions of requests per seconds, trillions of rows, 100s of TB of storage
 - $ Fast and consistent in performance
 - $ Integrated with IAM for security, authorization, and admin
